@@ -1,1 +1,4 @@
-alert('Alec-WAM was here')
+$(document).ready ( function(){
+   alert('Alec-WAM was here')
+});
+
